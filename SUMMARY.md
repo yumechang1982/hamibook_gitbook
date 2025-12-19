@@ -12,6 +12,7 @@
   * [如何查詢月讀包訂閱紀錄？](monthly/order-history.md)
   * [如何變更或取消月讀包/藏愛包服務？](monthly/how-to-cancel.md)
   * [月讀包定期定額方案付款信用卡到期？](monthly/yue-du-bao-ding-qi-dingefang-an-fu-kuan-xin-yong-ka-dao-qi.md)
+  * [月讀包帳號如何變更？](monthly/yue-du-bao-zhang-hao-ru-he-bian-geng.md)
   * [關於學習聯合包方案](monthly/guan-wu-xue-xi-lian-he-bao-fang-an.md)
 * [關於 HamiBook 閱讀器](hamibookapp/README.md)
   * [APP系統相容問題](hamibookapp/appos.md)
