@@ -7,7 +7,7 @@
 操作方式
 
 ❶請您使用Google Chrome瀏覽器，\
-開啟Hami書城電腦版官網https://www.hamibook.com.tw/Homes/book\
+開啟Hami書城電腦版官網[https://www.hamibook.com.tw/Homes/book](https://www.hamibook.com.tw/Homes/book)\
 ❷右上方｢加入會員｣，使用｢電子信箱｣方式註冊Hami書城新會員帳號
 
 ❸註冊完成，請用戶來信書城客服中心hamibook@kland.com.tw提供｢原始手機門號帳號｣以及｢新的註冊會員電子信箱帳號｣
