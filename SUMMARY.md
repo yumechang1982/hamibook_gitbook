@@ -19,6 +19,7 @@
   * [APP會員登入說明](hamibookapp/app-member-sign-in.md)
   * [操作介面介紹](hamibookapp/guide.md)
   * [文石BOOX閱讀器應用程式個性化設定](hamibookapp/wen-shi-boox-yue-du-qi-ying-yong-cheng-shi-ge-xing-hua-she-ding.md)
+  * [iPad以及iPhone單頁放大頁面閱讀翻頁設定](hamibookapp/ipad-yi-ji-iphone-dan-ye-fang-da-ye-mian-yue-du-fan-ye-she-ding.md)
   * [如何使用「聽書」(有聲書)功能](hamibookapp/ru-he-shi-yong-ting-shu-you-sheng-shu-gong-neng.md)
   * [如何使用AR書櫃＼閱讀AR電子書？](hamibookapp/arbook.md)
 * [關於 Hamiko 店長](how-to-use-hamiko/README.md)
