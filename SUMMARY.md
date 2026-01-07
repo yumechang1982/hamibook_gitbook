@@ -32,6 +32,7 @@
   * [企業採購服務序號](experiences/bulk-buying.md)
 * [如何購買電子書](ebook/README.md)
   * [如何使用折價券序號？](ebook/discount-coupon.md)
+  * [電子書格式？](ebook/dian-zi-shu-ge-shi.md)
   * [如何閱讀購買的書?](ebook/how-to-reading.md)
 * [官網交易相關問題](terms-of-the-transaction.md)
 * [關於定位閱讀](location-hambook.md)
