@@ -21,13 +21,47 @@ description: 電子書購買後，需使用HamiBook APP/Hami書城官網(PC閱�
 
 
 
-
-
 **如何取得 HamiBook App 請見 ▶**[ **關於HamiBook閱讀器**](https://support.hamibook.com.tw/hamibookapp)
 
 
 
-### **Hami書城官網PC閱讀**
+## ePub 流動版｢個人化閱讀設定｣
+
+ePub 流動版書籍提供用戶使用｢個人化閱讀設定｣
+
+❶於書刊頁面，點擊閱讀中頁面將顯示｢工具列｣
+
+<figure><img src="../.gitbook/assets/個人化閱讀設定_1.png" alt=""><figcaption></figcaption></figure>
+
+❷點擊\[Aa]圖示，調整\[字體]
+
+<figure><img src="../.gitbook/assets/個人化閱讀設定_2.png" alt=""><figcaption></figcaption></figure>
+
+
+
+❸拖曳放大/縮小字體
+
+<figure><img src="../.gitbook/assets/個人化閱讀設定_3.png" alt=""><figcaption></figcaption></figure>
+
+❹點擊工具列右方\[...]圖示
+
+<figure><img src="../.gitbook/assets/個人化閱讀設定_4.png" alt=""><figcaption></figcaption></figure>
+
+4-1設定橫直排
+
+<figure><img src="../.gitbook/assets/個人化閱讀設定_5.png" alt=""><figcaption></figcaption></figure>
+
+4-2設定對齊方式
+
+<figure><img src="../.gitbook/assets/個人化閱讀設定_6.png" alt=""><figcaption></figcaption></figure>
+
+4-3行距設定
+
+<figure><img src="../.gitbook/assets/個人化閱讀設定_7.png" alt=""><figcaption></figcaption></figure>
+
+
+
+## **Hami書城官網PC閱讀**
 
 ❶進入Hami書城官網，點選右上角［登入］
 
