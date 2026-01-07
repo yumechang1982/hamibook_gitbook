@@ -21,8 +21,6 @@ description: 電子書購買後，需使用HamiBook APP/Hami書城官網(PC閱�
 
 
 
-電子書格式：於裝置上呈現方式不同，PDF格式､ePub 流動版､ePub 固定版，標示於書籍簡介頁面，請於購買前確認您的購買格式。
-
 
 
 **如何取得 HamiBook App 請見 ▶**[ **關於HamiBook閱讀器**](https://support.hamibook.com.tw/hamibookapp)
