@@ -28,6 +28,10 @@ description: 訂閱型（每30天定期扣繳）月讀包方案，請參考以�
 
 <figure><img src="../.gitbook/assets/訂閱月讀包_3.png" alt=""><figcaption></figcaption></figure>
 
+**Step4**
+
+完成付款流程
+
 ## HamiBook App內購買
 
 於「HamiBook App」內，點選右上角「設定」，即可選擇「訂閱書城月租服務」，透過App內訂購將由Apple iTunes 或 Google Play提供訂購憑證及發票等資訊。
