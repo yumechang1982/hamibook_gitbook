@@ -169,6 +169,13 @@ description: HamiBook App 操作介面說明
 
 <figure><img src="../.gitbook/assets/電腦版重點摘要_2.png" alt=""><figcaption></figcaption></figure>
 
+※放大/縮小閱讀頁面
+
+點擊閱讀中頁面/抑或將滑鼠移至左上方\
+PC線上閱讀，開啟｢放大｣､｢縮小｣功能按鍵
+
+<figure><img src="../.gitbook/assets/Hami書城_放大縮小功能示意圖.png" alt=""><figcaption></figcaption></figure>
+
 ❹閱讀結束後，點擊｢登出書櫃｣。
 
 <figure><img src="../.gitbook/assets/電腦版重點摘要_4.png" alt=""><figcaption></figcaption></figure>
