@@ -25,7 +25,7 @@
 * [關於 Hamiko 店長](how-to-use-hamiko/README.md)
   * [如何找書](how-to-use-hamiko/ru-he-zhao-shu.md)
   * [使用說明](how-to-use-hamiko/shi-yong-shuo-ming.md)
-* [voice-access](voice-access.md)
+* [如何使用智慧眼鏡聽書？](voice-access.md)
 * [關於月讀包兌換券](experiences/README.md)
   * [【7-ELEVEN】購買流程](experiences/7eleven-gou-mai-liu-cheng.md)
   * [【全家便利商店】購買流程](experiences/familymart.md)
