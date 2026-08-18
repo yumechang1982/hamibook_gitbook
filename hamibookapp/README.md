@@ -17,6 +17,6 @@ description: HamiBook為免費下載的App，任何人都可以下載安裝，�
 
 ▶**支援iPhone作業系統版本 iOS 15.0(含)以上版本之行動裝置(手機或平板)進行App下載及安裝。**
 
-* iOS版本: 因應蘋果官方政策，HamiBook App 未來最低支援版本將調整為 iOS 15.0（含）以上。<mark style="color:blue;">**2026/08/17起，不支援使用 iOS 15.0(以下)之設備登入**</mark>。強烈建議您將裝置之iOS作業系統升級至最新版本。
+* iOS版本: 因應蘋果官方政策，HamiBook App 未來最低支援版本將調整為 iOS 15.0（含）以上。<mark style="color:blue;">**2026/08/17起**</mark>預告<mark style="color:blue;">**，不支援使用 iOS 15.0(以下)之設備登入**</mark>。強烈建議您將裝置之iOS作業系統升級至最新版本。
 
 若您無法下載安裝HamiBook閱讀器，亦可透過電腦(PC)，使用Google Chrome瀏覽器開啟Hami書城官網，點擊「閱讀書籍」後，選擇「PC閱讀」。
