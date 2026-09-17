@@ -11,9 +11,9 @@ description: HamiBook為免費下載的App，任何人都可以下載安裝，�
 
 **※ 為得到最佳閱讀體驗，系統最低支援**：
 
-▶**支援Android作業系統版本 Android 8.0(含)以上之行動裝置(手機或平板)進行App下載及安裝。**
+▶**支援Android作業系統版本 Android 10以上之行動裝置(手機或平板)進行App下載及安裝。**
 
-* Android 版本: <mark style="color:blue;">**2024/08/30起，不支援使用Android 8.0(以下)之設備登入**</mark>。強烈建議您將裝置之Android作業系統升級至最新版本。
+* Android 版本: <mark style="color:blue;">**不支援使用**</mark><mark style="color:blue;">**Android 10**</mark><mark style="color:blue;">**以下之設備登入**</mark>。強烈建議您將裝置之Android作業系統升級至最新版本。
 
 ▶**支援iPhone作業系統版本 iOS 15.0(含)以上版本之行動裝置(手機或平板)進行App下載及安裝。**
 
